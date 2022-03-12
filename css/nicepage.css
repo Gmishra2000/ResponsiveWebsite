@@ -723,10 +723,10 @@ textarea {
     font: inherit
 }
 
-ul,
+/* ul,
 ol {
     padding-left: 20px
-}
+} */
 
 .u-over-slide {
     position: absolute;
@@ -42882,7 +42882,8 @@ a.u-link.u-hover-custom-color-2:hover {
 .u-container-layout.u-container-layout.u-custom-color-3:before,
 .u-table-alt-custom-color-3 tr:nth-child(even) {
     color: #fff;
-    background-color: #1a1a1a;
+    background-color: #203239;
+    
 }
 
 .u-button-style.u-custom-color-3,
@@ -44039,7 +44040,7 @@ h2.u-subtitle {
     margin-bottom: 20px
 }
 
-h1:not(.u-title) {
+/* h1:not(.u-title) {
     font-size: 3.75rem;
     line-height: 1.1;
     margin-top: 20px;
@@ -44047,7 +44048,7 @@ h1:not(.u-title) {
     font-weight: 400;
     list-icon-spacing: .3;
     list-icon-size: .8
-}
+} */
 
 h2:not(.u-subtitle) {
     font-weight: 400;
@@ -44133,10 +44134,10 @@ blockquote {
     margin-bottom: 20px
 }
 
-ul:not(.u-unstyled) {
+/* ul:not(.u-unstyled) {
     margin-top: 20px;
     margin-bottom: 20px
-}
+} */
 
 ol {
     margin-top: 20px;
@@ -44215,12 +44216,12 @@ h1:not(.u-title) {
     color: #fff
 }
 
-.u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item)>p:not(.u-text-variant),
+/* .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item)>p:not(.u-text-variant),
 .u-gradient>.u-container-layout>p:not(.u-text-variant),
 .u-image:not(.u-shading)>.u-container-layout>p:not(.u-text-variant),
 p:not(.u-text-variant) {
     color: #fff
-}
+} */
 
 .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item)>a,
 .u-gradient>.u-container-layout>a,
